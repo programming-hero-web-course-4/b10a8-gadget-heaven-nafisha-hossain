@@ -1,0 +1,122 @@
+[
+  {
+    "product_id": 1,
+    "product_code": "A001",
+    "product_title": "Wireless Keyboard and Mouse",
+    "product_image": "https://i5.walmartimages.com/seo/Wireless-Keyboard-Mouse-Combo-87-Keys-Rechargeable-Gaming-Set-Silent-Ergonomic-Anti-Ghosting-Keyboard-W-2-4G-USB-Receiver-7-Color-Backlit-Windows-Des_e8c39008-ce5d-40b3-9765-548af4704ac2.415e133daa280011546d4910c75f6023.jpeg",
+    "category": "accessories",
+    "price": 59.99,
+    "description": "A wireless keyboard and mouse combo with ergonomic design.",
+    "Specification": ["2.4GHz Wireless", "Silent Keys", "Adjustable DPI"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 2,
+    "product_code": "P001",
+    "product_title": "SmartPhone ZFlip",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZAQejah2umLjB-j0Z2ZToxgodmpdnYFgQGA&s",
+    "category": "phones",
+    "price": 999.99,
+    "description": "A foldable smartphone with a compact and innovative design.",
+    "Specification": ["6.9-inch Foldable AMOLED", "Snapdragon 8 Gen 2", "8GB RAM", "256GB Storage"],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": 3,
+    "product_code": "L001",
+    "product_title": "ProBook X15",
+    "product_image": "https://www.hp.com/gb-en/shop/Html/Merch/Images/9V1F7AT-ABU_1750x1285.jpg",
+    "category": "laptops",
+    "price": 1099.99,
+    "description": "A sleek and versatile laptop with strong performance for work and play.",
+    "Specification": ["15.6-inch Full HD", "Intel i5 10th Gen", "8GB RAM", "256GB SSD"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 4,
+    "product_code": "S001",
+    "product_title": "SportX SmartWatch",
+    "product_image": "https://www.valdus.com/wp-content/uploads/2024/10/20241028064201c4ca4238a0b92382.jpg",
+    "category": "smart watches",
+    "price": 149.99,
+    "description": "A smartwatch designed for sports enthusiasts, with real-time tracking.",
+    "Specification": ["1.4-inch AMOLED", "Heart Rate Monitor", "GPS", "Battery Life: 5 days"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 5,
+    "product_code": "L002",
+    "product_title": "Gaming Laptop GX77",
+    "product_image": "https://asset.msi.com/resize/image/global/product/product_16826338078b3e4f5cc37cf8526028d7e585bf6134.png62405b38c58fe0f07fcef2367d8a9ba1/600.png",
+    "category": "laptops",
+    "price": 1899.99,
+    "description": "A high-performance laptop for gamers with stunning visuals and speed.",
+    "Specification": ["17.3-inch QHD", "Intel i9 12th Gen", "32GB RAM", "1TB SSD"],
+    "availability": false,
+    "rating": 4.9
+  },
+  {
+    "product_id": 6,
+    "product_code": "A002",
+    "product_title": "ProTech Laptop Sleeve",
+    "product_image": "https://getmanshaped.com/cdn/shop/files/1_5_a39a2726-a956-4970-9a47-02dde77889ae.jpg?v=1724240386&width=2048",
+    "category": "accessories",
+    "price": 49.99,
+    "description": "Protect your laptop with this durable and stylish sleeve.",
+    "Specification": ["Water-resistant material", "Fits laptops up to 15.6 inches", "Extra compartments"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 7,
+    "product_code": "P002",
+    "product_title": "SmartPhone X12",
+    "product_image": "https://manuals.plus/wp-content/uploads/2022/04/BLU-Studio-X12-Smartphone-Featured-Image.png",
+    "category": "phones",
+    "price": 799.99,
+    "description": "The latest smartphone with cutting-edge technology and performance.",
+    "Specification": ["6.7-inch AMOLED", "Snapdragon 8 Gen 2", "12GB RAM", "128GB Storage"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 8,
+    "product_code": "S002",
+    "product_title": "FitWatch Plus",
+    "product_image": "https://m.media-amazon.com/images/I/41bwX3nFh+L._AC_UF1000,1000_QL80_.jpg",
+    "category": "smart watches",
+    "price": 199.99,
+    "description": "Track your fitness and stay connected with this premium smartwatch.",
+    "Specification": ["1.5-inch OLED", "Heart Rate Monitor", "GPS", "7-day Battery Life"],
+    "availability": false,
+    "rating": 4.3
+  },
+  {
+    "product_id": 9,
+    "product_code": "P003",
+    "product_title": "iPhone 13 Pro Max",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41oM9lJ9XVYPjrthmaJKF6Kf7A9hUEVWq_Q&s",
+    "category": "phones",
+    "price": 1099.99,
+    "description": "Apple's latest flagship phone with top-tier performance and amazing camera quality.",
+    "Specification": ["6.7-inch OLED", "A15 Bionic Chip", "6GB RAM", "128GB Storage"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 10,
+    "product_code": "S003",
+    "product_title": "ActiveFit SmartBand",
+    "product_image": "https://kryinternational.com/wp-content/uploads/2024/03/Oraimo-Watch-4-Plus.jpg",
+    "category": "smart watches",
+    "price": 99.99,
+    "description": "A budget-friendly smartband for tracking your daily activity.",
+    "Specification": ["1-inch LCD", "Step Counter", "Sleep Tracking", "5-day Battery Life"],
+    "availability": true,
+    "rating": 4.2
+  }
+]
